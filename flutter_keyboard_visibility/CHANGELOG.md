@@ -1,6 +1,8 @@
 ## [7.0.0] - July 27, 2026
 
-* Raised the minimum supported versions to Dart 3.11 and Flutter 3.41.
+* Raised the minimum supported versions to Dart 3.11 and Flutter 3.44.
+* Supported Android Gradle Plugin (AGP) 9 via built-in Kotlin.
+* Updated Android `compileSdk` to 36.
 * Added Swift Package Manager support while retaining CocoaPods support.
 * Updated Android to the current Flutter Gradle, SDK, and Java defaults.
 * Improved Android 11 and later keyboard detection with `WindowInsets`.
